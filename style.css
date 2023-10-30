@@ -1,8 +1,7 @@
-body {
+div {
     text-align: center;
     font-size: xx-large;
     color: rgb(131, 128, 128);
-    text-shadow: 5px 1px;
-    padding-top: 25px;
-
+    text-shadow: 5px 1px rgb(232, 66, 99);
+    margin-top: 50px;
 }
